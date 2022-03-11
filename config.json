@@ -1,15 +1,13 @@
 {
   "squares": [
     { "name": "media",
-      "color": "red",
+      "color": "#26A69A",
       "links": [
-        { "name": "Spotify", "url": "https://open.spotify.com/" },
-        { "name": "YoutubeMusic", "url": "https://music.youtube.com/" },
-        { "name": "Netflix", "url": "https://netflix.com" },
-        { "name": "Youtube", "url": "https://youtube.com" }
+        { "name": "Youtube", "url": "https://youtube.com" },
+        { "name": "YoutubeMusic", "url": "https://music.youtube.com/" }
       ]
     },
-    { "name": "work",
+    { "name": "Coding",
       "color": "#26A69A",
       "links": [
         { "name": "Github", "url": "https://github.com" },
@@ -20,30 +18,28 @@
     { "name": "social",
       "links": [
         { "name": "Reddit", "url": "https://reddit.com" },
-        { "name": "Unixporn Love", "url": "https://deepjyoti30.github.io/unixporn-love/" },
-        { "name": "r/unixporn", "url": "https://www.reddit.com/r/unixporn/" },
-        { "name": "r/mk", "url": "https://www.reddit.com/r/MechanicalKeyboards/" }
+        { "name": "Twitter", "url": "https://twitter.com" }
       ]
     },
     {
-      "name": "Others",
+      "name": "G Suite",
       "links": [
-        {"name": "Material Colors", "url": "http://materialuicolors.co/"},
         {"name": "Gmail", "url": "http://gmail.com/"},
-        {"name": "neo4j Local", "url": "http://localhost:7474/"},
-        {"name": "rarbg", "url": "http://rarbg.to"}
+        {"name": "Drive", "url": "https://drive.google.com/"},
+        {"name": "Docs", "url": "https://docs.google.com/document/"},
+        {"name": "Sheets", "url": "https://docs.google.com/spreadsheets/"}
       ]
     }
   ],
   "title": "startpage",
   "searchEngine":"DuckDuckGo",
-  "user": "Deepjyoti",
+  "user": "Aditya",
   "disableMessage": false,
   "disableDate": false,
   "disableSearchBar": false,
-  "disable24Hour": false,
+  "disable24Hour": true,
   "disableWeather": true,
-  "timeZone": "America/Los_Angeles",
+  "timeZone": "India/Kolkata",
   "weatherConf": {
     "location": "Pune India",
     "unit": "cel"
